@@ -4,10 +4,9 @@
   Author: Tron Black
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/ravenwallet/rips
-  Status: Replaced
+  Status: Final
   Type: Process
   Created: 2018-06-13
-  Superseded-By: 2
 </pre>
 
 ==What is a RIP?==
