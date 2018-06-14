@@ -1,0 +1,2 @@
+# rips
+Ravencoin Improvement Proposal
