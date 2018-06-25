@@ -4,4 +4,4 @@ We are fairly liberal with approving RIPs, and try not to be too involved in dec
 
 Having a RIP here does not make it a formally accepted standard until its status becomes Final or Active.
 
-Those proposing changes should consider that ultimately consent may rest with the consensus of the Bitcoin community which includes developers, miners, economic majority, and nodes.
+Those proposing changes should consider that ultimately consent may rest with the consensus of the Ravencoin community which includes developers, miners, economic majority, and nodes.
